@@ -1,0 +1,10 @@
+{
+    "plugin_name": "Plugin_Name",
+    "plugin_slug": "plugin_name",
+    "description": "My Wordpress Plugin description",
+
+    "email": "info@rasta.online",
+    "_copy_without_render": [
+        "*.html"
+    ]
+}
